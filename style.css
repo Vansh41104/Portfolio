@@ -1,0 +1,1043 @@
+.desktop-dark-mode {
+  background-color: #191919;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop-dark-mode .div {
+  background-color: var(--dark-mode);
+  width: 1710px;
+  height: 3931px;
+  position: relative;
+}
+
+.desktop-dark-mode .group {
+  position: absolute;
+  width: 930px;
+  height: 36px;
+  top: 45px;
+  left: 592px;
+}
+
+.desktop-dark-mode .navbar {
+  position: absolute;
+  width: 727px;
+  height: 29px;
+  top: 4px;
+  left: 0;
+}
+
+.desktop-dark-mode .text-wrapper {
+  position: absolute;
+  width: 122px;
+  height: 29px;
+  top: 0;
+  left: 288px;
+  font-family: var(--buttons-big-font-family);
+  font-weight: var(--buttons-big-font-weight);
+  color: var(--light-content);
+  font-size: var(--buttons-big-font-size);
+  text-align: center;
+  letter-spacing: var(--buttons-big-letter-spacing);
+  line-height: var(--buttons-big-line-height);
+  white-space: nowrap;
+  font-style: var(--buttons-big-font-style);
+}
+
+.desktop-dark-mode .text-wrapper-2 {
+  width: 92px;
+  left: 625px;
+  position: absolute;
+  height: 29px;
+  top: 0;
+  font-family: var(--buttons-big-font-family);
+  font-weight: var(--buttons-big-font-weight);
+  color: var(--light-content);
+  font-size: var(--buttons-big-font-size);
+  text-align: center;
+  letter-spacing: var(--buttons-big-letter-spacing);
+  line-height: var(--buttons-big-line-height);
+  white-space: nowrap;
+  font-style: var(--buttons-big-font-style);
+}
+
+.desktop-dark-mode .text-wrapper-3 {
+  width: 92px;
+  left: 474px;
+  position: absolute;
+  height: 29px;
+  top: 0;
+  font-family: var(--buttons-big-font-family);
+  font-weight: var(--buttons-big-font-weight);
+  color: var(--light-content);
+  font-size: var(--buttons-big-font-size);
+  text-align: center;
+  letter-spacing: var(--buttons-big-letter-spacing);
+  line-height: var(--buttons-big-line-height);
+  white-space: nowrap;
+  font-style: var(--buttons-big-font-style);
+}
+
+.desktop-dark-mode .text-wrapper-4 {
+  position: absolute;
+  width: 66px;
+  height: 29px;
+  top: 0;
+  left: 0;
+  font-family: var(--buttons-big-font-family);
+  font-weight: var(--buttons-big-font-weight);
+  color: var(--light-content);
+  font-size: var(--buttons-big-font-size);
+  text-align: center;
+  letter-spacing: var(--buttons-big-letter-spacing);
+  line-height: var(--buttons-big-line-height);
+  white-space: nowrap;
+  font-style: var(--buttons-big-font-style);
+}
+
+.desktop-dark-mode .text-wrapper-5 {
+  width: 69px;
+  left: 145px;
+  position: absolute;
+  height: 29px;
+  top: 0;
+  font-family: var(--buttons-big-font-family);
+  font-weight: var(--buttons-big-font-weight);
+  color: var(--light-content);
+  font-size: var(--buttons-big-font-size);
+  text-align: center;
+  letter-spacing: var(--buttons-big-letter-spacing);
+  line-height: var(--buttons-big-line-height);
+  white-space: nowrap;
+  font-style: var(--buttons-big-font-style);
+}
+
+.desktop-dark-mode .group-2 {
+  position: absolute;
+  width: 153px;
+  height: 36px;
+  top: 0;
+  left: 777px;
+}
+
+.desktop-dark-mode .entypo-social {
+  position: absolute;
+  width: 35px;
+  height: 33px;
+  top: 2px;
+  left: 118px;
+}
+
+.desktop-dark-mode .ant-design-twitter {
+  position: absolute;
+  width: 38px;
+  height: 35px;
+  top: 0;
+  left: 59px;
+}
+
+.desktop-dark-mode .vector {
+  position: absolute;
+  width: 35px;
+  height: 33px;
+  top: 2px;
+  left: 0;
+}
+
+.desktop-dark-mode .text-wrapper-6 {
+  position: absolute;
+  width: 459px;
+  height: 29px;
+  top: 1915px;
+  left: 612px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: var(--solid-heading-dark-mode);
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .akar-icons-github {
+  position: absolute;
+  width: 105px;
+  height: 97px;
+  top: 2369px;
+  left: 1457px;
+}
+
+.desktop-dark-mode .logos-git-icon {
+  position: absolute;
+  width: 125px;
+  height: 117px;
+  top: 2355px;
+  left: 923px;
+}
+
+.desktop-dark-mode .logos-python {
+  position: absolute;
+  width: 189px;
+  height: 179px;
+  top: 2148px;
+  left: 1177px;
+}
+
+.desktop-dark-mode .logos-mysql-plain {
+  position: absolute;
+  width: 150px;
+  height: 143px;
+  top: 2153px;
+  left: 1423px;
+}
+
+.desktop-dark-mode .logos-react {
+  position: absolute;
+  width: 133px;
+  height: 112px;
+  top: 2166px;
+  left: 919px;
+}
+
+.desktop-dark-mode .vscode-icons-file {
+  position: absolute;
+  width: 131px;
+  height: 125px;
+  top: 2355px;
+  left: 1193px;
+}
+
+.desktop-dark-mode .img {
+  position: absolute;
+  width: 141px;
+  height: 133px;
+  top: 2158px;
+  left: 654px;
+}
+
+.desktop-dark-mode .vscode-icons-file-2 {
+  position: absolute;
+  width: 141px;
+  height: 133px;
+  top: 2164px;
+  left: 389px;
+}
+
+.desktop-dark-mode .vscode-icons-file-3 {
+  position: absolute;
+  width: 141px;
+  height: 134px;
+  top: 2166px;
+  left: 127px;
+}
+
+.desktop-dark-mode .component {
+  position: absolute;
+  width: 1417px;
+  height: 390px;
+  top: 235px;
+  left: 105px;
+}
+
+.desktop-dark-mode .text {
+  position: absolute;
+  width: 751px;
+  height: 280px;
+  top: 101px;
+  left: 0;
+}
+
+.desktop-dark-mode .you-have-the-design {
+  position: absolute;
+  width: 749px;
+  height: 280px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 800;
+  color: var(--solid-heading-dark-mode);
+  font-size: 45px;
+  letter-spacing: -1px;
+  line-height: 70px;
+}
+
+.desktop-dark-mode .element {
+  position: absolute;
+  width: 429px;
+  height: 407px;
+  top: 12px;
+  left: 997px;
+  object-fit: cover;
+}
+
+.desktop-dark-mode .technologies-i-ve {
+  position: absolute;
+  width: 919px;
+  height: 29px;
+  top: 1998px;
+  left: 405px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--light-content);
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .p {
+  position: absolute;
+  width: 486px;
+  height: 28px;
+  top: 2682px;
+  left: 620px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--light-content);
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .text-wrapper-7 {
+  position: absolute;
+  width: 299px;
+  height: 29px;
+  top: 2598px;
+  left: 706px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: var(--solid-heading-dark-mode);
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .logos-cplusplus-line {
+  position: absolute;
+  width: 123px;
+  height: 116px;
+  top: 2356px;
+  left: 662px;
+}
+
+.desktop-dark-mode .logos-azure-original {
+  position: absolute;
+  width: 150px;
+  height: 142px;
+  top: 2348px;
+  left: 389px;
+}
+
+.desktop-dark-mode .logos-java-original {
+  position: absolute;
+  width: 150px;
+  height: 143px;
+  top: 2337px;
+  left: 127px;
+}
+
+.desktop-dark-mode .overlap {
+  position: absolute;
+  width: 442px;
+  height: 634px;
+  top: 2835px;
+  left: 147px;
+}
+
+.desktop-dark-mode .rectangle {
+  width: 438px;
+  left: 4px;
+  position: absolute;
+  height: 631px;
+  top: 3px;
+  background-color: #363636;
+  border-radius: 20px;
+  box-shadow: 2px 2px 100px #00000033;
+}
+
+.desktop-dark-mode .rectangle-2 {
+  position: absolute;
+  width: 442px;
+  height: 289px;
+  top: 0;
+  left: 0;
+}
+
+.desktop-dark-mode .text-wrapper-8 {
+  position: absolute;
+  width: 368px;
+  height: 58px;
+  top: 318px;
+  left: 38px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.desktop-dark-mode .text-wrapper-9 {
+  position: absolute;
+  width: 370px;
+  height: 87px;
+  top: 431px;
+  left: 41px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 300;
+  color: var(--button-success);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.desktop-dark-mode .overlap-group {
+  position: absolute;
+  width: 442px;
+  height: 634px;
+  top: 2835px;
+  left: 642px;
+}
+
+.desktop-dark-mode .rectangle-3 {
+  width: 439px;
+  left: 3px;
+  border: 1px solid;
+  border-color: #000000;
+  position: absolute;
+  height: 631px;
+  top: 3px;
+  background-color: #363636;
+  border-radius: 20px;
+  box-shadow: 2px 2px 100px #00000033;
+}
+
+.desktop-dark-mode .text-wrapper-10 {
+  position: absolute;
+  width: 228px;
+  height: 29px;
+  top: 321px;
+  left: 98px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .text-wrapper-11 {
+  position: absolute;
+  width: 371px;
+  height: 87px;
+  top: 431px;
+  left: 35px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 300;
+  color: var(--button-success);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.desktop-dark-mode .overlap-2 {
+  position: absolute;
+  width: 442px;
+  height: 634px;
+  top: 2835px;
+  left: 1140px;
+}
+
+.desktop-dark-mode .rectangle-4 {
+  width: 440px;
+  left: 2px;
+  position: absolute;
+  height: 631px;
+  top: 3px;
+  background-color: #363636;
+  border-radius: 20px;
+  box-shadow: 2px 2px 100px #00000033;
+}
+
+.desktop-dark-mode .text-wrapper-12 {
+  position: absolute;
+  width: 285px;
+  height: 28px;
+  top: 325px;
+  left: 80px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .text-wrapper-13 {
+  position: absolute;
+  width: 370px;
+  height: 87px;
+  top: 431px;
+  left: 37px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 300;
+  color: var(--button-success);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.desktop-dark-mode .black-and-white {
+  position: absolute;
+  width: 445px;
+  height: 77px;
+  top: 42px;
+  left: 48px;
+  object-fit: cover;
+}
+
+.desktop-dark-mode .overlap-3 {
+  position: absolute;
+  width: 1437px;
+  height: 191px;
+  top: 3603px;
+  left: 136px;
+}
+
+.desktop-dark-mode .mask-group {
+  position: absolute;
+  width: 1384px;
+  height: 167px;
+  top: 24px;
+  left: 53px;
+}
+
+.desktop-dark-mode .be-sure-to-take-a-lo {
+  position: absolute;
+  width: 426px;
+  height: 19px;
+  top: 115px;
+  left: 857px;
+}
+
+.desktop-dark-mode .menu {
+  position: absolute;
+  width: 702px;
+  height: 5px;
+  top: 111px;
+  left: 1px;
+}
+
+.desktop-dark-mode .about {
+  position: absolute;
+  width: 85px;
+  top: 0;
+  left: 457px;
+  font-family: "DM Sans", Helvetica;
+  font-weight: 400;
+  color: var(--dark-content);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .about-2 {
+  position: absolute;
+  width: 85px;
+  top: 0;
+  left: 607px;
+  font-family: "DM Sans", Helvetica;
+  font-weight: 400;
+  color: var(--dark-content);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .pricing {
+  position: absolute;
+  width: 65px;
+  top: 0;
+  left: 127px;
+  font-family: "DM Sans", Helvetica;
+  font-weight: 400;
+  color: var(--dark-content);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .how-it-works {
+  position: absolute;
+  width: 135px;
+  top: 0;
+  left: 257px;
+  font-family: "DM Sans", Helvetica;
+  font-weight: 400;
+  color: var(--dark-content);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .portfolio {
+  position: absolute;
+  width: 62px;
+  top: 0;
+  left: 0;
+  font-family: "DM Sans", Helvetica;
+  font-weight: 400;
+  color: var(--dark-content);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .divider {
+  position: absolute;
+  width: 1384px;
+  height: 2px;
+  top: 165px;
+  left: -1px;
+}
+
+.desktop-dark-mode .group-wrapper {
+  position: absolute;
+  width: 180px;
+  height: 5px;
+  top: 0;
+  left: 416px;
+}
+
+.desktop-dark-mode .group-3 {
+  position: relative;
+  width: 184px;
+  height: 5px;
+}
+
+.desktop-dark-mode .element-2 {
+  position: absolute;
+  width: 159px;
+  top: 0;
+  left: 21px;
+  font-family: "DM Sans", Helvetica;
+  font-weight: 400;
+  color: var(--dark-content);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .fa-phone {
+  width: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--dark-content);
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 38px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .div-wrapper {
+  position: absolute;
+  width: 306px;
+  height: 5px;
+  top: 0;
+  left: 603px;
+}
+
+.desktop-dark-mode .group-4 {
+  position: relative;
+  width: 310px;
+  height: 5px;
+}
+
+.desktop-dark-mode .info-designmodo-com {
+  position: absolute;
+  width: 267px;
+  top: 0;
+  left: 39px;
+  font-family: "DM Sans", Helvetica;
+  font-weight: 400;
+  color: var(--dark-content);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .fa-envelope {
+  width: 21px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--dark-content);
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 38px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .black-and-white-2 {
+  position: absolute;
+  width: 444px;
+  height: 78px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop-dark-mode .group-5 {
+  position: absolute;
+  width: 153px;
+  height: 36px;
+  top: 24px;
+  left: 1283px;
+}
+
+.desktop-dark-mode .flexcontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+  position: absolute;
+  width: 1444px;
+  height: 250px;
+  top: 902px;
+  left: 149px;
+}
+
+.desktop-dark-mode .span-wrapper {
+  position: relative;
+  align-self: stretch;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--solid-heading-dark-mode);
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.desktop-dark-mode .span {
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #cccccc;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.desktop-dark-mode .paragraph {
+  position: absolute;
+  width: 234px;
+  height: 86px;
+  top: 780px;
+  left: 723px;
+}
+
+.desktop-dark-mode .easy-steps {
+  position: absolute;
+  width: 232px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 42px;
+  letter-spacing: -0.4px;
+  line-height: 52px;
+}
+
+.desktop-dark-mode .overlap-wrapper {
+  position: absolute;
+  width: 1444px;
+  height: 97px;
+  top: 1307px;
+  left: 132px;
+}
+
+.desktop-dark-mode .overlap-4 {
+  position: relative;
+  width: 1549px;
+  height: 101px;
+  top: -4px;
+}
+
+.desktop-dark-mode .mdi-office-building {
+  position: absolute;
+  width: 33px;
+  height: 16px;
+  top: 49px;
+  left: 0;
+}
+
+.desktop-dark-mode .overlap-group-2 {
+  position: absolute;
+  width: 1428px;
+  height: 101px;
+  top: 0;
+  left: 0;
+}
+
+.desktop-dark-mode .middle-fill {
+  position: absolute;
+  width: 172px;
+  height: 31px;
+  top: 0;
+  left: 1255px;
+  background-color: var(--button-success);
+  border-radius: 100px;
+}
+
+.desktop-dark-mode .sign-up {
+  position: absolute;
+  height: 26px;
+  top: 2px;
+  left: 39px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: var(--button-text);
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .step {
+  position: absolute;
+  width: 1285px;
+  height: 28px;
+  top: 4px;
+  left: 0;
+}
+
+.desktop-dark-mode .how-startup-framewor-wrapper {
+  position: relative;
+  width: 1287px;
+  height: 28px;
+}
+
+.desktop-dark-mode .how-startup-framewor {
+  position: absolute;
+  width: 1285px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--light-content);
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 28px;
+}
+
+.desktop-dark-mode .line {
+  position: absolute;
+  width: 3px;
+  height: 1428px;
+  top: -614px;
+  left: 713px;
+  background-color: var(--colors-grey);
+  transform: rotate(-90deg);
+}
+
+.desktop-dark-mode .carbon-location {
+  position: absolute;
+  width: 33px;
+  height: 16px;
+  top: 50px;
+  left: 1106px;
+}
+
+.desktop-dark-mode .step-2 {
+  position: absolute;
+  width: 399px;
+  height: 22px;
+  top: 47px;
+  left: 1149px;
+}
+
+.desktop-dark-mode .text-2 {
+  position: relative;
+  width: 401px;
+  height: 22px;
+}
+
+.desktop-dark-mode .how-startup-framewor-2 {
+  width: 399px;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  font-size: 18px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  color: var(--light-content);
+  letter-spacing: 1px;
+  line-height: 28px;
+}
+
+.desktop-dark-mode .step-3 {
+  position: absolute;
+  width: 552px;
+  height: 22px;
+  top: 45px;
+  left: 41px;
+}
+
+.desktop-dark-mode .text-3 {
+  position: relative;
+  width: 554px;
+  height: 22px;
+}
+
+.desktop-dark-mode .how-startup-framewor-3 {
+  width: 552px;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  font-size: 12px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  color: var(--light-content);
+  letter-spacing: 1px;
+  line-height: 28px;
+}
+
+.desktop-dark-mode .overlap-5 {
+  position: absolute;
+  width: 1444px;
+  height: 97px;
+  top: 1718px;
+  left: 140px;
+}
+
+.desktop-dark-mode .overlap-group-wrapper {
+  position: absolute;
+  width: 1444px;
+  height: 97px;
+  top: 0;
+  left: 0;
+}
+
+.desktop-dark-mode .sign-up-2 {
+  position: absolute;
+  height: 26px;
+  top: 2px;
+  left: 53px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: var(--button-text);
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.desktop-dark-mode .step-4 {
+  position: absolute;
+  width: 1px;
+  height: 28px;
+  top: 45px;
+  left: 41px;
+}
+
+.desktop-dark-mode .text-4 {
+  position: relative;
+  width: 2px;
+  height: 28px;
+  mix-blend-mode: darken;
+}
+
+.desktop-dark-mode .how-startup-framewor-4 {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  font-size: 12px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  color: var(--light-content);
+  letter-spacing: 1px;
+  line-height: 28px;
+}
+
+.desktop-dark-mode .how-startup-framewor-5 {
+  width: 1285px;
+  top: 39px;
+  left: 43px;
+  font-weight: 400;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  color: var(--light-content);
+  letter-spacing: 1px;
+  line-height: 28px;
+}
+
+.desktop-dark-mode .component-2 {
+  position: absolute;
+  width: 1444px;
+  height: 97px;
+  top: 1454px;
+  left: 132px;
+}
+
+.desktop-dark-mode .easy-steps-wrapper {
+  top: 1190px;
+  left: 132px;
+  position: absolute;
+  width: 976px;
+  height: 68px;
+}
+
+.desktop-dark-mode .easy-steps-2 {
+  position: absolute;
+  width: 974px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: var(--solid-heading-dark-mode);
+  font-size: 42px;
+  letter-spacing: -0.4px;
+  line-height: 52px;
+}
+
+.desktop-dark-mode .paragraph-2 {
+  top: 1601px;
+  left: 138px;
+  position: absolute;
+  width: 976px;
+  height: 68px;
+}
