@@ -1,8 +1,10 @@
 .desktop-dark-mode {
   background-color: #191919;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
+  display:flex;
+  flex-direction:column;
+  flex-wrap: wrap;
+  justify-content:center;
+  align-items: center;
   width: 100%;
 }
 
@@ -10,7 +12,7 @@
   background-color: var(--dark-mode);
   width: 1710px;
   height: 3931px;
-  position: relative;
+  position:relative;
 }
 
 .desktop-dark-mode .group {
